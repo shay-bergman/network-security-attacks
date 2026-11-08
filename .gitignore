@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.d
+*.out
+*.a
+
+# Compiled binaries
+buffer-overflow/overflow_exploit
+dns-cache-poisoning/poison_client
+dns-cache-poisoning/auth_server
+xss/cookie_logger
+xss/inject_stored
+sql-injection-and-response-splitting/blind_sqli
+sql-injection-and-response-splitting/response_splitting
+
+# Captured output / recovered data
+*.txt.out
