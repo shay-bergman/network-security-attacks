@@ -7,6 +7,7 @@
 #include "net_util.h"
 
 #include <arpa/inet.h>
+#include <stddef.h>
 #include <sys/socket.h>
 
 bool ipv4_from_string(const char *ip_str, struct in_addr *out_addr)
